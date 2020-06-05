@@ -4,5 +4,5 @@ const language = "JavaScript";
 const email  = "iyanyakenneth@gmail.com";
 
 const string = () =>{
-  return `Hello World, this is ${name} with HNGi7 ID ${HNGi7_ID} and email ${email} using ${language} for stage 2 task.`};
+  return `Hello World, this is ${name} with HNGi7 ID ${HNGi7_ID} and email ${email} using ${language} for stage 2 task`};
 console.log(string());
